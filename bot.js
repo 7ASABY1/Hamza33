@@ -160,4 +160,4 @@ console.log(err)
 
 // ZERO DEVELOPERS
 
-client.login(process.env.token)
+client.login(MTA4NDM4NzI2Njk0MTY4NTgyMg.GqChkR.DTpVxiqrbgJ0nz6HB-ZlaxSe5i-jFKTgDU90NY)
